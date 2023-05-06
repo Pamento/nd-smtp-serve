@@ -9,7 +9,7 @@
   "author": "Pamento",
   "license": "ISC",
   "dependencies": {
-    "smtp-server": "^3.5.0"
+    "smtp-server": "^3.11.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
